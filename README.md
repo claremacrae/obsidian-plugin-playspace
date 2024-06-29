@@ -15,6 +15,11 @@ This sample plugin demonstrates some of the basic functionality the plugin API c
 - Registers a global interval which logs 'setInterval' to the console.
 
 ## First time developing plugins?
+a
+sdfafd
+asf
+as
+fdsa
 
 Quick starting guide for new plugin devs:
 
